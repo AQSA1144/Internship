@@ -1,0 +1,11 @@
+Token Generattion:
+1). Click profile logo and go to setting
+2). Click Developer Setting
+3). Now click Personal access Tokens
+4). Now Click Tokens (Classic)
+5). Here we generate the token (classic) 
+		type the token name, expire date and give the token permission here.
+ 
+
+
+git remote set-url origin  https://paste Token@github.com/AQSA1144/Internship
